@@ -277,7 +277,7 @@ footer{
 
 @media (max-width: 425px){
   .scoreboard, .clock {
-    max-width: 25rem;
+    max-width: 24rem;
   }
   .cancelGols button{
     margin: 0 1.5rem;
@@ -286,7 +286,7 @@ footer{
 
 @media (max-width: 375px){
   .scoreboard, .clock {
-    max-width: 22rem;
+    max-width: 21rem;
   }
   .timeA, .timeB {
     font-size: 1.2rem;
@@ -295,6 +295,6 @@ footer{
 
 @media (max-width: 320px){
   .scoreboard, .clock {
-    max-width: 19rem;
+    max-width: 18rem;
   }
 }
